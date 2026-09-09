@@ -16,5 +16,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "components/LittleLemonHeader.js", "src/app/_layout.tsx", "src/app/index.tsx"  ]
 }
